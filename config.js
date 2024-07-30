@@ -19,12 +19,12 @@ global.info = {
  pairingNumber: '212693227969',
  nameown: 'Nour',
  nomerown: '212717457920',
- packname: 'sticker by ',
- author: 'Noureddine',
- namebot: 'ꜱɪʟᴀɴᴀ',
+ packname: 'DIEGO ',
+ author: 'BRANDO',
+ namebot: 'DIEGO',
  wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
- stickpack: 'Whatsapp',
- stickauth: 'ꜱɪʟᴀɴᴀ ʙᴏᴛ '
+ stickpack: 'DIEGO BRANDO',
+ stickauth: 'BOT'
 }
 
 // Thumbnail 
@@ -34,7 +34,7 @@ global.media = {
  rules: 'https://telegra.ph/file/afcfa712bd09f4fcf027a.jpg',
  thumbnail: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
  thumb: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
- logo: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
+ logo: 'https://telegra.ph//file/f7abc9e15d7e9c8c25a25.jpg',
  unReg: 'https://telegra.ph/file/ef02d1fdd59082d05f08d.jpg',
  registrasi: 'https://telegra.ph/file/0169f000c9ddc7c3315ff.jpg',
  confess: 'https://telegra.ph/file/03cabea082a122abfa5be.jpg',
